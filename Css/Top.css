@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.Top{
+	background-image: url("../Images/Top.png");
+}
+
+#Top{
+	width: 100%;
+}
+#logo{
+	width: 300px;
+}
+
+.Logo {
+	float: right;
+}
+#title{
+	width:1000px;
+}
+.Languge{
+	float: right;
+	padding-right: 30px;
+}
