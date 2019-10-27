@@ -65,7 +65,7 @@ li {
 }
 .Tb_Body{
 	width: 100%;
-	height: 100%;
+	height: 94%;
 }
 #News{
 	
@@ -81,5 +81,13 @@ table{
 }
 .Avarta {
 	width: 200px;
-	height: 200px;
+	height: 13%;
+}
+.Search-with{
+	width: 100%;
+	height: 3%;
+}
+.Middle table{
+	height: 100%;
+	width: 100%;
 }
