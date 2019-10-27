@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 * {
 	margin: 0;
 	padding: 0;
@@ -24,3 +25,80 @@
 	float: right;
 	padding-right: 30px;
 }
+=======
+@charset "utf-8";
+
+* {
+	margin: 0px;
+	padding:  0px;
+}
+
+.clr {
+	clear:both;
+}
+	
+body{
+	 background: #57DDED  ;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 15px;
+}
+
+.Main{
+	width: 100%;
+	margin: 0px auto;
+}
+.Top{
+	width: 100%;
+	height: 130px;
+	background:  url("../Images/Topbg.png") center top;
+}
+table #Top{
+	width: 100%px;
+	height: 120px;
+}
+#logo{
+	width: 250px;
+	
+}
+#title{
+	width: 100%;
+}
+#language{
+	width: 100px;
+	
+}
+.Logo a{
+	float: left;
+	padding: 3px 0px 3px 130px	;
+}
+.Title {
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif""VNI-Park";
+	font-size: 30px;
+	line-height: 45px;
+	padding: 3px 150px 3px 130px;
+}
+
+.Languge{
+	margin-right: 5px;
+	float: 	right;
+	width: 200px;
+	
+	padding-bottom: 15px;
+	vertical-align: top;
+	
+}
+
+.Languge div{
+	
+	padding-bottom: 5px;
+	float: left;
+
+}
+
+.Languge #pick_language{
+	margin-left: 5px;
+	float: left;
+}
+
+
+>>>>>>> Stashed changes
